@@ -1,0 +1,6 @@
+[submodule "dorkfs"]
+	path = dorkfs
+	url = git@github.com:darkwisebear/dorkfs.git
+[submodule "urlencode"]
+	path = urlencode
+	url = https://github.com/darkwisebear/serde_urlencoded.git
